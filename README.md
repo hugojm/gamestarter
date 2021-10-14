@@ -19,10 +19,12 @@ python3 bot.py
 ## Commands
 
 ```
-!price -> Returns the actual price of the $GAME token and more metrics
+$game_price -> Returns the actual price of the $GAME token and more metrics
 
-!eth_gas -> Returns the Etherium gas fee price
+$dark_price -> Returns the actual price of the $DARK token and more metrics
 
-!bsc_price -> Returns the Binance Smart Chain  gas fee price
+$eth_gas -> Returns the Etherium gas fee price
+
+$bsc_price -> Returns the Binance Smart Chain  gas fee price
 
 ```
